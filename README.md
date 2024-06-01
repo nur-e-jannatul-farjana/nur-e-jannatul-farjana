@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nur-e-jannatul-farjana
-- 👀 I’m interested in research & web programming
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on research proposal
+- 👀 I’m interested in research & web programming.
+- 🌱 I’m currently learning ML.
+- 💞️ I’m looking to collaborate on research proposal.
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/nur-e-jannatul-farjana/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: no fun !
